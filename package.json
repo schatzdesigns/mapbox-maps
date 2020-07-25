@@ -24,7 +24,7 @@
     "blueimp-md5": "^2.7.0",
     "cheap-ruler": "^2.5.0",
     "history": "^4.7.2",
-    "lodash": "^4.17.4",
+    "lodash": "^4.17.19",
     "mapbox-gl": "^0.44.0",
     "prop-types": "^15.5.10",
     "react": "^15.5.0",
